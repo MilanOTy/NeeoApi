@@ -1,8 +1,7 @@
 # RoonApi
-C# Roon API
+C# NEEO API
 
-The RoonTestApi sample shows usage of the imlemented RoonApi interfaces and also shows how to implemement source and volume control.
+The TestNEEOServer sample shows usage of the implemented NeeoApi.
 
-RoonControlAdaptorUnDok.cs implements a real world source and volume controller for UnDok (Frontier Silicon) devices.   
-
+TestNEEOServer/Helper directory contains classes of my framework, they should be replaced
 
