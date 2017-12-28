@@ -49,8 +49,7 @@ namespace TestNEEOServer.Services.Neeo
                 return;
             }
 
-            string hostAddress = address + "Neeo";
-            await service.Initialize(hostAddress);
+            await service.Initialize(address);
         }
     }
 }
