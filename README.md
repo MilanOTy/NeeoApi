@@ -1,4 +1,4 @@
-# RoonApi
+# NeeoApi
 C# NEEO API
 
 The TestNEEOServer sample shows usage of the implemented NeeoApi.
